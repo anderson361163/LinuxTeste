@@ -9,9 +9,8 @@ public class teste {
         if(1>2){
 
         }else{
-            
+            System.out.println("Sei lá");
         }
-
 
     }
 }
